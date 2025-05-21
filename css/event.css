@@ -1,7 +1,11 @@
 body {
     height: auto;
     width: 100%;
+<<<<<<< HEAD
     background-image: url('../Images/pexels-rachel-claire-6123093.jpg');
+=======
+    background-image: url('../images/pexels-rachel-claire-6123093.jpg');
+>>>>>>> f1e556671e165f62c0caf3e46d636c6e7f1b6342
     background-repeat: no-repeat;
     background-size: cover;}
   .header {
